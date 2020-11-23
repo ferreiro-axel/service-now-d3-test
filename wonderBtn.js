@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    alert("Im here!");
+    console.log('hello world!');
 });
