@@ -1,3 +1,5 @@
-$(".wonderBtn").click(function(){
-  alert("The paragraph was clicked.");
-}); 
+$(document).ready(function(){
+    $(".wonderBtn").click(function(){
+    alert("The paragraph was clicked.");
+    });
+});
